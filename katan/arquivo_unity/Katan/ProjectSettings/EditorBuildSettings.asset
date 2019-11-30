@@ -6,6 +6,35 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+    path: Assets/Scenes/Alysson/Maps.unity
+    guid: a2c5dd1f82892994185715f94c7fc53c
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario01.unity
+    guid: e753bc8e3593e9a46a0a84f628680b38
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario02.unity
+    guid: 4120c73958510514b96d12848eb3715d
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario03.unity
+    guid: 305cb57cb2978d146b52e5261abf44c7
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario04.unity
+    guid: 6add5dc742115c14da33006d34ba63e5
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario05.unity
+    guid: 126b5631d96e8f741977832f07d453f4
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario06.unity
+    guid: 84881a37cb1ad4d458c67381d402518d
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario07.unity
+    guid: f05470699aed8e841a21738f360e06c6
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario08.unity
+    guid: 1e83c9289601de4439e8494cb00a3721
+  - enabled: 1
+    path: Assets/Scenes/Alysson/canarios/cenario09.unity
+    guid: 874f921f54a3cc04084fe6537499d39e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 13814a3476f81c74b83d78e7de791618,
+      type: 2}
